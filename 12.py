@@ -1,0 +1,5 @@
+d=input('Enter number between 1-31: ')
+hh=input('Enter number between 00-24: ')
+mm=input('Enter number between 00-59: ')
+ss=input('Enter number between 00-59: ')
+print(d+':'+hh+':'+mm+':'+ss)

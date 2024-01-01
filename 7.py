@@ -1,0 +1,10 @@
+a=int(input())
+b=int(input())
+c=int(input())
+save=int()
+saveA=a
+saveB=b
+a=c
+b=saveA
+c=saveB
+print(a,b,c)
